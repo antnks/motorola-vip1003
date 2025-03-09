@@ -1,6 +1,13 @@
 # motorola-vip1003
 Hacking Telia tv box Motorola VIP1003
 
+# Telia AES key
+
+Symmetric AES-256-ECB key used to encrypt firmware:
+```
+cd1c2d78f2cba1f73ca7e697b4a485f49a8a7d0c8b0fdc9f51ced50f2530668a
+```
+
 # Telia firmware boot log
 
 ```
