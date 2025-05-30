@@ -1,6 +1,15 @@
 # motorola-vip1003
 Hacking Telia tv box Motorola VIP1003
 
+# Update 2025-05-30
+
+Check out the vulnerability write-up: https://full-disclosure.eu/reports/2025/FDEU-CVE-2025-1c00-arris-bootloader-shell-injection.html
+```
+Bootloader shell injection in various Motorola and Arris tv boxes allows
+arbitrary code execution with root privileges, bypass of secure boot,
+dump encryption keys and boot custom firmware.
+```
+
 # Telia AES key
 
 Symmetric AES-256-ECB key used to encrypt firmware:
